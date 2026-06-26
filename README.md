@@ -37,6 +37,7 @@ Review and debug code with AI assistance.
 ## 📖 Blog
 
 - [Best Free AI Tools 2026 — Complete Guide](https://aifreeaistack.com/pages/best-free-ai-tools-2026-complete-guide.html)
+[Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 - [How to Optimize Your Resume for ATS in 2026](https://aifreeaistack.com/pages/ats-resume-optimization-guide-2026.html)
 - [10 Cold Email Templates That Actually Get Replies](https://aifreeaistack.com/pages/cold-email-templates-that-work-2026.html)
 - [Free vs Paid AI Tools in 2026: When to Upgrade](https://aifreeaistack.com/pages/free-vs-paid-ai-tools-2026.html)
