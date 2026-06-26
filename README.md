@@ -1,3 +1,4 @@
+⭐ **Star this repo if you find these tools useful!**
 # Free AI Tools List
 
 A curated list of free AI-powered tools for everyday work. No credit card required, no hidden limits — just tools that actually deliver.
